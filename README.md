@@ -6,7 +6,7 @@ A comprehensive digital menu management system for restaurants, enabling efficie
 
 This project is a full-stack digital menu management platform built to satisfy all functional requirements for restaurant menu management and customer access.
 
-**Live Deployed Application**: https://qr-digital-menu-system.vercel.app
+**Live Deployed Application**: https://qr-digital-menu-system-jsld.vercel.app
 
 ---
 
@@ -656,7 +656,7 @@ qr-digital-menu-system/
 ## 📞 Support
 
 - **Repository**: https://github.com/Gourav01dev/qr-digital-menu-system
-- **Visit**: https://qr-digital-menu-system.vercel.app
+- **Visit**: https://qr-digital-menu-system-jsld.vercel.app
 
 ---
 
